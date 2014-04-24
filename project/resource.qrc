@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resourse/fall.jpg</file>
+        <file>resourse/summer.jpg</file>
+        <file>resourse/winter.jpg</file>
+    </qresource>
+</RCC>
